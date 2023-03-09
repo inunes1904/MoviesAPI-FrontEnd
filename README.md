@@ -1,4 +1,4 @@
-# MoviesAPI PART2
+# MoviesAPI - PART2
 
 ## Simple MoviesAPI
 In this full stack development project, i create an application using MongoDb for the database, Java and Spring Boot for the backend, and React for the frontend.
